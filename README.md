@@ -95,18 +95,6 @@ hgab-studios-blog-creator/
 └── README.md
 ```
 
-## Contributing
-
-Contributions to the HGAB Studios Blog Creator are welcome. Please follow these steps to contribute:
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature/your-feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature/your-feature-name`
-5. Submit a pull request
-
-Please make sure to update tests as appropriate and adhere to the existing coding style.
-
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
