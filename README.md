@@ -1,6 +1,6 @@
-# HGAB Studios Blog Creator
+# AI Blog Creator
 
-HGAB Studios Blog Creator is an AI-powered multi-agent system that assists in creating high-quality blog posts. It streamlines the process from idea generation to final publication, leveraging OpenAI and Perplexity APIs for content creation and research.
+Blog Creator is an AI-powered multi-agent system that assists in creating high-quality blog posts. It streamlines the process from idea generation to final publication, leveraging OpenAI and Perplexity APIs for content creation and research.
 
 ## Features
 
@@ -113,7 +113,7 @@ Please make sure to update tests as appropriate and adhere to the existing codin
 
 ## Contact
 
-If you have any questions or feedback, please reach out to us at [contact@hgabstudios.com](mailto:contact@hgabstudios.com).
+If you have any questions or feedback, please reach out to us at [solutios@chrisvivas.ai](mailto:solutions@chrisvivas.ai).
 
 ## Acknowledgements
 
